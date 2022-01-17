@@ -1,0 +1,9 @@
+pandas
+numpy
+sklearn
+seaborn
+bokeh
+matplotlib
+google
+datetime
+streamlit
